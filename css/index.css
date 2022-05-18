@@ -2504,7 +2504,6 @@ input {
 }
 
 #wrapper {
-    min-width: 1250px;
     height: 100%;
     min-height: 600px
 }
